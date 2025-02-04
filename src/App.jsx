@@ -573,7 +573,7 @@ function App() {
 
             <div className="modal-footer border-top bg-light">
               <button
-                onClick={handleCloseDelProductModal}
+                onClick={handleCloseProductModal}
                 type="button"
                 className="btn btn-secondary"
               >
